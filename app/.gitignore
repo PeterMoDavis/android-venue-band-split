@@ -1,0 +1,10 @@
+# Root-level .gitignore
+.idea/
+build/
+*.iml
+local.properties
+.gradle/
+.DS_Store
+/captures/
+/captures_raw/
+/externalNativeBuild/

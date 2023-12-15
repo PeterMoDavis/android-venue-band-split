@@ -1,0 +1,14 @@
+# Android Studio
+*.iml
+/.gradle/
+/local.properties
+
+# Gradle
+/.idea/
+/.gradle/
+/build/
+
+# Generated Files
+/build/
+/captures/
+
